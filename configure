@@ -1,7 +1,0 @@
-#!/bin/sh
-echo "Please type username"
-read name
-echo "Please type user group(most likely the same as the username"
-read group
-sed -i "2s/nobody/$name/" config.h
-sed -i "3s/nogroup/$group/" config.h
