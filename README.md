@@ -19,4 +19,4 @@ Users of Arch-based distros can install from the AUR, [slock-jacob-git](https://
 
 ## Editing the Message
 
-Edit config.h and change the message variable. You can also change the font by editing the font_name variable but make sure slock supports it by checking slock -f. The text color can also be changed by editing the text_color variable.
+You can also change the font by editing the font_name variable but make sure slock supports it by checking slock -f. The text color can also be changed by editing the text_color variable.
